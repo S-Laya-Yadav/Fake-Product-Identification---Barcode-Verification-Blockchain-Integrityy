@@ -69,8 +69,8 @@ To provide a **fast, reliable, and secure system** to identify fake products and
 
 ## 🚀 How to Run the Project
 
-### 📥 Step 1: Clone the Repository
 ```bash
+Step 1: Clone the Repositor
 git clone https://github.com/S-Laya-Yadav/Fake-Product-Identification---Barcode-Verification-Blockchain-Integrityy.git
 Step 2: Open in VS Code
 Open the project folder in VS Code
